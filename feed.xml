@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
+  <id>http://blog.url.com/articles</id>
+  <link href="http://blog.url.com/articles"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-09-22T17:13:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>The Morality of Adblockers</title>
+    <link rel="alternate" href="http://blog.url.com/articles/2015/09/the-morality-of-adblockers.html"/>
+    <id>http://blog.url.com/articles/2015/09/the-morality-of-adblockers.html</id>
+    <published>2015-09-22T17:13:00+00:00</published>
+    <updated>2015-09-22T21:44:48+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="the-morality-of-adblockers"&gt;The Morality of Adblockers&lt;/h1&gt;
+
+&lt;p&gt;Recently the question of whether it is "moral" or right to use adblockers has come to the foreground.&lt;/p&gt;
+
+&lt;p&gt;In this article I will explore the moral arguments on both sides, for and against using adblockers, specifically focusing on the recent context of ad blocking in iOS apps.&lt;/p&gt;
+
+&lt;p&gt;The focus on iOS is due in part to Apple enabling iOS 9 to create powerful "content blockers" whose most popular forms block adverts and websites from tracking you and your browsing behaviour.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that Adblockers existed before the recent changes to Safari to enable new breeds of content blocking apps, it is rather that Apple's enabling of a more powerful and easier to build content blocker app brought their very existence, and moral questions related to using them, into public debate.&lt;/p&gt;
+
+&lt;h2 id="adblocking-context"&gt;Adblocking Context&lt;/h2&gt;
+
+&lt;p&gt;A technical explanation can be found on the &lt;a href="https://www.webkit.org/blog/3476/content-blockers-first-look/"&gt;Surfin' Safari blog intro to content blockers&lt;/a&gt;, but essentially Apple has made it easier than ever before for users, and developers, to create apps that block specific content.&lt;/p&gt;
+
+&lt;p&gt;Content that can be blocked ranges from specific websites (You can block certain Newspapers and links to their articles if you wish), to "tracking Cookies", Popups, Images and content relating to specific keywords or content etc.&lt;/p&gt;
+
+&lt;p&gt;The motivation for the development of these powerful blocking actions are said to be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;"We wanted to enable better privacy filters, and that is what has been driving the feature set that exists today.&lt;/p&gt;
+
+  &lt;p&gt;There is a whole universe of features that can take advantage of the content blocker API, around privacy or better user experience."&lt;/p&gt;
+
+  &lt;p&gt;Benjamin Poulain, &lt;a href="https://www.webkit.org/blog/3476/content-blockers-first-look/"&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The two driving forces articulated by Benjamin Poulain are therefore:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Increased control over privacy for developers and by extension, users&lt;/li&gt;
+  &lt;li&gt;Better user experience (through a possibly more tailored experience of no ads, no images or no content from certain websites or about certain subjects)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It could be argued that Apple's reason for developing, or rather enabling, powerful adblocking functionality is not such a move to increase user control but rather attempt to undermine major competitors (like Google, and by extension Android) who rely on selling advertising for revenue.&lt;/p&gt;
+
+&lt;p&gt;Regardless of whether this is true, these two driving forces behind adblockers, are also commonly cited by advocates of adblockers and form the core of the moral argument for adblockers&lt;/p&gt;
+
+&lt;h2 id="in-support-of-adblockers"&gt;In support of Adblockers&lt;/h2&gt;
+
+&lt;h2 id="arguments-against-adblockers"&gt;Arguments against Adblockers&lt;/h2&gt;
+
+&lt;h2 id="further-support-of-adblockers"&gt;Further Support of Adblockers&lt;/h2&gt;
+
+&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
+
+&lt;h2 id="further-reading"&gt;Further Reading&lt;/h2&gt;
+</content>
+  </entry>
 </feed>
